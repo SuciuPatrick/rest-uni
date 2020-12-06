@@ -1,0 +1,14 @@
+**/.pytest_cache
+**/db.sqlite3
+.idea
+
+**/__pycache__/
+.python-version
+**/.DS_Store
+images
+src/restaurant_project/settings/.env
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
